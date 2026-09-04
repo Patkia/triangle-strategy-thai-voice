@@ -1,0 +1,4 @@
+input_codepoints,output_sequence,status,rule_type,notes_safe
+U+F282 U+0E32,อำ,VERIFIED,CLUSTER,human-reviewed
+U+F26E U+0E32,นำ,CLUSTER_CANDIDATE,CLUSTER,candidate; human review required
+U+F25D U+0E32,จำ,CLUSTER_CANDIDATE,CLUSTER,candidate; human review required

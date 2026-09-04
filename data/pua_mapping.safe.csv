@@ -1,0 +1,547 @@
+codepoint,replacement,status,rule_type,notes_safe
+U+E0AF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F000,กั,VERIFIED,SIMPLE,human-reviewed
+U+F001,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F003,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F005,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F006,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F007,จั,VERIFIED,SIMPLE,human-reviewed
+U+F008,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F009,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F00A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F00C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F012,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F013,ดั,VERIFIED,SIMPLE,human-reviewed
+U+F014,ตั,VERIFIED,SIMPLE,human-reviewed
+U+F015,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F016,ทั,VERIFIED,SIMPLE,human-reviewed
+U+F017,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F018,นั,VERIFIED,SIMPLE,human-reviewed
+U+F019,บั,VERIFIED,SIMPLE,human-reviewed
+U+F01A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F01B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F01C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F01D,พั,VERIFIED,SIMPLE,human-reviewed
+U+F01E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F01F,ภั,VERIFIED,SIMPLE,human-reviewed
+U+F020,มั,VERIFIED,SIMPLE,human-reviewed
+U+F021,ยั,VERIFIED,SIMPLE,human-reviewed
+U+F022,รั,VERIFIED,SIMPLE,human-reviewed
+U+F024,ลั,VERIFIED,SIMPLE,human-reviewed
+U+F026,วั,VERIFIED,SIMPLE,human-reviewed
+U+F027,ศั,VERIFIED,SIMPLE,human-reviewed
+U+F028,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F029,สั,VERIFIED,SIMPLE,human-reviewed
+U+F02A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F02C,อั,VERIFIED,SIMPLE,human-reviewed
+U+F02D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F02E,กิ,VERIFIED,SIMPLE,human-reviewed
+U+F02F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F031,คิ,VERIFIED,SIMPLE,human-reviewed
+U+F034,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F035,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F036,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F037,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F038,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F03A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F03C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F040,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F041,ดิ,VERIFIED,SIMPLE,human-reviewed
+U+F042,ติ,VERIFIED,SIMPLE,human-reviewed
+U+F043,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F044,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F045,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F046,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F047,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F048,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F049,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F04B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F04C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F04D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F04E,มิ,VERIFIED,SIMPLE,human-reviewed
+U+F04F,ยิ,VERIFIED,SIMPLE,human-reviewed
+U+F050,ริ,VERIFIED,SIMPLE,human-reviewed
+U+F052,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F054,วิ,VERIFIED,SIMPLE,human-reviewed
+U+F055,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F057,สิ,VERIFIED,SIMPLE,human-reviewed
+U+F058,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F05A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F05B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F05C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F05D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F05F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F062,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F063,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F064,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F065,ชี,VERIFIED,SIMPLE,human-reviewed
+U+F066,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F069,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F06E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F06F,ดี,VERIFIED,SIMPLE,human-reviewed
+U+F070,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F071,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F072,ที,VERIFIED,SIMPLE,human-reviewed
+U+F073,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F074,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F075,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F076,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F077,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F078,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F079,พี,VERIFIED,SIMPLE,human-reviewed
+U+F07C,มี,VERIFIED,SIMPLE,human-reviewed
+U+F07D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F07E,รี,VERIFIED,SIMPLE,human-reviewed
+U+F080,ลี,VERIFIED,SIMPLE,human-reviewed
+U+F082,วี,VERIFIED,SIMPLE,human-reviewed
+U+F083,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F084,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F085,สี,VERIFIED,SIMPLE,human-reviewed
+U+F086,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F088,อี,VERIFIED,SIMPLE,human-reviewed
+U+F089,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F08A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F08D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F091,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F094,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F09D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F09E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F09F,ถึ,VERIFIED,SIMPLE,human-reviewed
+U+F0A0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0A2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0A4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0A6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0A7,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0AA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0AB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0AC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0AE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B1,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B7,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0B9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0BB,คื,VERIFIED,SIMPLE,human-reviewed
+U+F0BE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0BF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0C1,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0CB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0CC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0CD,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0CE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D1,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D5,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0D8,มื,VERIFIED,SIMPLE,human-reviewed
+U+F0D9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0DA,รื,VERIFIED,SIMPLE,human-reviewed
+U+F0DC,ลื,VERIFIED,SIMPLE,human-reviewed
+U+F0E1,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0E2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0E4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0E5,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0E6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0E7,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0E9,คุ,VERIFIED,SIMPLE,human-reviewed
+U+F0EC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0ED,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0EE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0EF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0F0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0F9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0FA,ตุ,VERIFIED,SIMPLE,human-reviewed
+U+F0FB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0FC,ทุ,VERIFIED,SIMPLE,human-reviewed
+U+F0FD,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0FE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F0FF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F100,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F101,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F103,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F104,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F106,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F107,ยุ,VERIFIED,SIMPLE,human-reviewed
+U+F108,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F10A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F10C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F10D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F10F,สุ,VERIFIED,SIMPLE,human-reviewed
+U+F110,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F112,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F113,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F114,กู,VERIFIED,SIMPLE,human-reviewed
+U+F115,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F117,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F11B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F11D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F120,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F126,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F127,ดู,VERIFIED,SIMPLE,human-reviewed
+U+F128,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F129,ถู,VERIFIED,SIMPLE,human-reviewed
+U+F12A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F12C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F12D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F12E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F12F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F130,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F131,พู,VERIFIED,SIMPLE,human-reviewed
+U+F132,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F133,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F134,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F135,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F136,รู,VERIFIED,SIMPLE,human-reviewed
+U+F138,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F13A,วู,VERIFIED,SIMPLE,human-reviewed
+U+F13B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F13D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F13E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F140,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F142,ก็,VERIFIED,SIMPLE,human-reviewed
+U+F143,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F145,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F149,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F14B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F14C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F155,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F156,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F158,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F15A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F15B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F15C,ป็,VERIFIED,SIMPLE,human-reviewed
+U+F15D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F162,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F163,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F164,ร็,VERIFIED,SIMPLE,human-reviewed
+U+F166,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F16C,ห็,VERIFIED,SIMPLE,human-reviewed
+U+F16E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F170,ก่,VERIFIED,SIMPLE,human-reviewed
+U+F171,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F173,ค่,VERIFIED,SIMPLE,human-reviewed
+U+F175,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F176,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F177,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F178,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F179,ช่,VERIFIED,SIMPLE,human-reviewed
+U+F17A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F17C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F181,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F183,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F184,ต่,VERIFIED,SIMPLE,human-reviewed
+U+F185,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F186,ท่,VERIFIED,SIMPLE,human-reviewed
+U+F188,น่,VERIFIED,SIMPLE,human-reviewed
+U+F189,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F18A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F18B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F18C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F18D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F190,ม่,VERIFIED,SIMPLE,human-reviewed
+U+F191,ย่,VERIFIED,SIMPLE,human-reviewed
+U+F192,ร่,VERIFIED,SIMPLE,human-reviewed
+U+F194,ล่,VERIFIED,SIMPLE,human-reviewed
+U+F196,ว่,VERIFIED,SIMPLE,human-reviewed
+U+F199,ส่,VERIFIED,SIMPLE,human-reviewed
+U+F19A,ห่,VERIFIED,SIMPLE,human-reviewed
+U+F19C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F19D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F19E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F19F,ข้,VERIFIED,SIMPLE,human-reviewed
+U+F1A1,ค้,VERIFIED,SIMPLE,human-reviewed
+U+F1A4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1A5,จ้,VERIFIED,SIMPLE,human-reviewed
+U+F1A6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1A7,ช้,VERIFIED,SIMPLE,human-reviewed
+U+F1A8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1B1,ด้,VERIFIED,SIMPLE,human-reviewed
+U+F1B2,ต้,VERIFIED,SIMPLE,human-reviewed
+U+F1B3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1B4,ท้,VERIFIED,SIMPLE,human-reviewed
+U+F1B6,น้,VERIFIED,SIMPLE,human-reviewed
+U+F1B7,บ้,VERIFIED,SIMPLE,human-reviewed
+U+F1B8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1B9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1BA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1BB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1BC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1BE,ม้,VERIFIED,SIMPLE,human-reviewed
+U+F1BF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1C0,ร้,VERIFIED,SIMPLE,human-reviewed
+U+F1C2,ล้,VERIFIED,SIMPLE,human-reviewed
+U+F1C4,ว้,VERIFIED,SIMPLE,human-reviewed
+U+F1C7,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1C8,ห้,VERIFIED,SIMPLE,human-reviewed
+U+F1CA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1CB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1CC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1D3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1E0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1E6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1EE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F1F8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F201,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F214,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F226,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F228,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F229,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F22B,ค์,VERIFIED,SIMPLE,human-reviewed
+U+F22F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F232,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F234,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F237,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F238,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F23A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F23B,ด์,VERIFIED,SIMPLE,human-reviewed
+U+F23C,ต์,VERIFIED,SIMPLE,human-reviewed
+U+F23D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F23E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F23F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F240,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F242,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F246,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F247,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F248,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F249,ย์,VERIFIED,SIMPLE,human-reviewed
+U+F24A,ร์,VERIFIED,SIMPLE,human-reviewed
+U+F24C,ล์,VERIFIED,SIMPLE,human-reviewed
+U+F24E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F24F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F250,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F251,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F252,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F256,กำ,VERIFIED,SIMPLE,human-reviewed
+U+F259,คำ,VERIFIED,SIMPLE,human-reviewed
+U+F25C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F25D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F25F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F269,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F26A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F26C,ทำ,VERIFIED,SIMPLE,human-reviewed
+U+F26E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F26F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F273,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F277,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F278,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F27A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F27F,สำ,VERIFIED,SIMPLE,human-reviewed
+U+F282,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F287,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F28D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F297,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F299,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F29A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F29C,นั้,VERIFIED,SIMPLE,human-reviewed
+U+F29D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F29E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2A0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2A4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2A5,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2A6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2A8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2AA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2AD,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2B0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2B2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2B3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2B5,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2B8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2BB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2C5,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2C6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2C8,ทั้,VERIFIED,SIMPLE,human-reviewed
+U+F2CA,นั้,VERIFIED,SIMPLE,human-reviewed
+U+F2CB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2CC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2D2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2D3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2D4,รั้,VERIFIED,SIMPLE,human-reviewed
+U+F2D6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F2DB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F30C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F322,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F33C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F345,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F34F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F351,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F352,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F354,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F355,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F359,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F35C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F35D,ยิ่,VERIFIED,SIMPLE,human-reviewed
+U+F35E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F360,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F362,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F365,สิ่,VERIFIED,SIMPLE,human-reviewed
+U+F368,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F373,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F37D,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F380,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F382,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F384,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F38B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F38C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F38E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F390,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F393,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F397,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F3B2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F407,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F40B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F422,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F423,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F425,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F428,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F42B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F435,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F437,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F438,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F43A,นี่,VERIFIED,SIMPLE,human-reviewed
+U+F43B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F43C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F43F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F443,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F444,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F446,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F448,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F44B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F44C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F450,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F451,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F457,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F459,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F463,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F464,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F468,นี้,VERIFIED,SIMPLE,human-reviewed
+U+F469,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F46A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F471,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F472,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F474,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F479,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F47A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F47C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F492,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4A0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4BF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4E4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4F0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4F2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4F7,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F4FC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F504,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F506,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F507,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F509,ขึ้,VERIFIED,SIMPLE,human-reviewed
+U+F512,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F521,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F523,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F534,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F536,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F562,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F590,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F593,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F598,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F59B,ชื่,VERIFIED,SIMPLE,human-reviewed
+U+F59C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5A5,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5A6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5A7,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5A8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5AA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5AB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5AC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5AD,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5AF,พื่,VERIFIED,SIMPLE,human-reviewed
+U+F5B0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5B2,มื่,VERIFIED,SIMPLE,human-reviewed
+U+F5B3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5B4,รื่,VERIFIED,SIMPLE,human-reviewed
+U+F5B6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5BB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5BE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5C6,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5C9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5CA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5D3,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5D4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5D8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5D9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5DA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5DD,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5DE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5E0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5E1,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5E2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5E4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5E9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F5EC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F64B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F650,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F653,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F654,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F660,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F662,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F666,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F667,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F668,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F66A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F66B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F66C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F66E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F670,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F673,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F674,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F676,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F67B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F68C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F69C,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6A2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6A4,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6B9,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6BA,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6BF,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6D2,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F6E8,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F719,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F731,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F733,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F737,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F739,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F74A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F750,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F751,ยู่,VERIFIED,SIMPLE,human-reviewed
+U+F752,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F754,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F759,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F75E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F779,ผู้,VERIFIED,SIMPLE,human-reviewed
+U+F780,รู้,VERIFIED,SIMPLE,human-reviewed
+U+F784,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F787,สู้,VERIFIED,SIMPLE,human-reviewed
+U+F78A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F7AE,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F7EB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F7F0,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F7F1,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F7FB,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F7FC,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F800,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F808,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F809,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F80A,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F80E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F819,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F81F,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F820,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F82B,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F82E,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F837,,UNMAPPED,SIMPLE,unmapped; human review required
+U+F83A,,UNMAPPED,SIMPLE,unmapped; human review required

@@ -1,0 +1,49 @@
+# GitHub-safe repository: deny by default, then allow only reviewed source/docs/data.
+*
+!.gitignore
+!README.md
+!AGENTS.md
+
+!scripts/
+!scripts/**/*.py
+!scripts/**/*.ps1
+!tools/
+!tools/**/*.py
+!data/
+!data/*.safe.csv
+!docs/
+!docs/github-readiness-audit.md
+!docs/github-safe-curation.md
+
+# Always keep local, even if a future allowlist is expanded.
+/TRIANGLE STRATEGY */
+/subthai/
+/men/
+/Output/
+/work/
+/vgmstream-win64/
+/FModel.exe
+*.pak
+*.uasset
+*.uexp
+*.ubulk
+*.awb
+*.acb
+*.hca
+*.wav
+*.lub
+*.nso
+*.ufont
+*.utoc
+*.ucas
+*.dds
+
+# Local credentials/configuration and editor/tool caches.
+.env
+.env.*
+*.pem
+*.pfx
+*.ppk
+secrets.*
+__pycache__/
+*.pyc
