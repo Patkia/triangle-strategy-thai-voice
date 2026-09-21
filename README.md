@@ -22,6 +22,11 @@ Unicode Thai master → OmniVoice Thai → WAV/HCA/AWB
 
 ## Runtime milestones
 
+- Whole-game Steam Thai Direct Unicode subtitle migration = **RUNTIME PASS** จากการทดสอบบน Nintendo Switch จริง
+  - Production PAK: `Newera-Switch_ThaiUnicode_Production_P.pak`
+  - SHA256: `33d215076202881d05da59f1ea2d921072d9522316352b6a6260e297d1b3a95b`
+  - สถานะไฟล์นี้เป็น known-good baseline ห้ามแก้ไขหรือเขียนทับ
+
 - โลโก้ภาษาไทยบน Title Screen ผ่าน runtime test
 - PUA opening sentence ผ่าน runtime test
 - PAK รวมที่มีเฉพาะ logo และ opening PUA ผ่าน runtime test
