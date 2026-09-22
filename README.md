@@ -39,7 +39,7 @@ Unicode Thai master → OmniVoice Thai → WAV/HCA/AWB
 
 ตัวอย่าง Intro บน Nintendo Switch ที่เปิดใช้งาน **ซับไทย + พากย์ไทย**:
 
-[▶️ ดูวิดีโอ Intro ตัวอย่าง](docs/media/intro.mp4)
+https://github.com/user-attachments/assets/84617c75-08c7-44eb-beb8-14947264a691
 
 ## ขอบเขต repository
 
