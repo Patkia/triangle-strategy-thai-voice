@@ -1,0 +1,221 @@
+{
+  "chapter": 10,
+  "banks": {
+    "MS10A_EN": 485,
+    "MS10B_EN": 371
+  },
+  "bank_audio_cues": 856,
+  "tts_rows": 842,
+  "keep_original_rows": 14,
+  "coverage_equation": "842 TTS + 14 original = 856/856",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 559,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 283
+  },
+  "pending_reference_characters": [
+    {
+      "code": "CLR",
+      "character_name": "แคลรุส",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "clarus",
+      "spoken_lines": 26
+    },
+    {
+      "code": "ENG",
+      "character_name": "เทเนบริส",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "tenebris",
+      "spoken_lines": 24
+    },
+    {
+      "code": "IDO",
+      "character_name": "อีดอร์",
+      "gender": "male",
+      "age": "elderly",
+      "voice_target": "idore",
+      "spoken_lines": 77
+    },
+    {
+      "code": "KNS",
+      "character_name": "แคมเซลล์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "kamsell",
+      "spoken_lines": 34
+    },
+    {
+      "code": "MIR",
+      "character_name": "ไมโล",
+      "gender": "female",
+      "age": "young adult",
+      "voice_target": "milo",
+      "spoken_lines": 5
+    },
+    {
+      "code": "RDL",
+      "character_name": "รูดอล์ฟ",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "rudolph",
+      "spoken_lines": 3
+    },
+    {
+      "code": "ROF",
+      "character_name": "รูฟัส",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "rufus",
+      "spoken_lines": 12
+    },
+    {
+      "code": "SEC",
+      "character_name": "ซิคราส",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "sycras",
+      "spoken_lines": 25
+    },
+    {
+      "code": "SVR",
+      "character_name": "สวาร็อค",
+      "gender": "male",
+      "age": "older adult",
+      "voice_target": "svarog",
+      "spoken_lines": 77
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS10A_F01_C0_0030_M_SEL_0020",
+      "speaker_code": "SEL",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 53,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_F01_C0_1010_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 54,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS10A_F01_C0_1010_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS10A_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 55,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_F01_C0_1010_M_SEL_0010",
+      "speaker_code": "SEL",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 86,
+      "english_text": "!?"
+    },
+    {
+      "self_id": "MS10A_H01_B0_0010_M_RLN_0010",
+      "speaker_code": "RLN",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 147,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_X16_B0_0010_M_MB102_0010",
+      "speaker_code": "MB102",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 197,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_X16_B0_0010_M_RLN_0010",
+      "speaker_code": "RLN",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 198,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_X16_BATTLE_01_AFTER_M_SEC_0020",
+      "speaker_code": "SEC",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 271,
+      "english_text": "......?"
+    },
+    {
+      "self_id": "MS10A_X16_BATTLE_01_BEFORE_M_RLN_0010",
+      "speaker_code": "RLN",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 284,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_X17_B0_0010_F_FRE_0070",
+      "speaker_code": "FRE",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 346,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_X17_BATTLE_01_DRAMA_M_RLN_0010",
+      "speaker_code": "RLN",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 450,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10A_X17_BATTLE_01_DRAMA_M_RLN_0020",
+      "speaker_code": "RLN",
+      "bank": "MS10A_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 451,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS10B_F01_C0_0010_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS10B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 1,
+      "english_text": "...!"
+    },
+    {
+      "self_id": "MS10B_X18_C0_1010_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS10B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 175,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter10_voice_mapping\\chapter10_omnivoice_studio.csv",
+  "sha256": "3b1902b13e60c134b7aa5fda4cf48b1506b34ecf2842c5cbcbb8ce91eace4b43"
+}

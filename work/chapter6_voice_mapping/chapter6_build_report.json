@@ -1,0 +1,70 @@
+{
+  "chapter": 6,
+  "bank": "MS06_EN",
+  "bank_audio_cues": 183,
+  "tts_rows": 178,
+  "keep_original_rows": 5,
+  "coverage_equation": "178 TTS + 5 original = 183/183",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 146,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 32
+  },
+  "pending_reference_characters": [
+    {
+      "code": "GST",
+      "character_name": "กุสตาดอล์ฟ",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "gustadolph",
+      "spoken_lines": 22
+    },
+    {
+      "code": "LND",
+      "character_name": "แลนดรอย",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "landroi",
+      "spoken_lines": 10
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS06_X07_BATTLE_01_AFTER_F_ABR_0070",
+      "speaker_code": "ABR",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 87,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS06_X07_BATTLE_01_DRAMA_M_M02_0010",
+      "speaker_code": "M02",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 126
+    },
+    {
+      "self_id": "MS06_X07_BATTLE_01_DRAMA_M_M03_0010",
+      "speaker_code": "M03",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 127
+    },
+    {
+      "self_id": "MS06_X07_BATTLE_01_DRAMA_M_M03_0020",
+      "speaker_code": "M03",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 128
+    },
+    {
+      "self_id": "MS06_X07_BATTLE_01_DRAMA_M_M04_0010",
+      "speaker_code": "M04",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 129
+    }
+  ],
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter6_voice_mapping\\chapter6_omnivoice_studio.csv"
+}

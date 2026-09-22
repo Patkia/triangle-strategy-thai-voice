@@ -1,0 +1,194 @@
+{
+  "chapter": 13,
+  "banks": {
+    "MS13_EN": 684
+  },
+  "bank_audio_cues": 684,
+  "tts_rows": 668,
+  "keep_original_rows": 16,
+  "coverage_equation": "668 TTS + 16 original = 684/684",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 589,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 79
+  },
+  "pending_reference_characters": [
+    {
+      "code": "IDO",
+      "character_name": "อีดอร์",
+      "gender": "male",
+      "age": "elderly",
+      "voice_target": "idore",
+      "spoken_lines": 4
+    },
+    {
+      "code": "KNS",
+      "character_name": "แคมเซลล์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "kamsell",
+      "spoken_lines": 23
+    },
+    {
+      "code": "MIR",
+      "character_name": "ไมโล",
+      "gender": "female",
+      "age": "young adult",
+      "voice_target": "milo",
+      "spoken_lines": 39
+    },
+    {
+      "code": "SEC",
+      "character_name": "ซิคราส",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "sycras",
+      "spoken_lines": 13
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS13_H01_A1_0010_M_ELA_0020",
+      "speaker_code": "ELA",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 76,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X24_A1_0010_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 212,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X24_A1_1010_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 239,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X24_BATTLE_01_AFTER_F_M176_0010",
+      "speaker_code": "M176",
+      "bank": "MS13_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 270
+    },
+    {
+      "self_id": "MS13_X24_BATTLE_01_AFTER_F_M178_0010",
+      "speaker_code": "M178",
+      "bank": "MS13_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 271
+    },
+    {
+      "self_id": "MS13_X24_BATTLE_01_AFTER_M_M177_0010",
+      "speaker_code": "M177",
+      "bank": "MS13_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 277
+    },
+    {
+      "self_id": "MS13_X25_A0_0040_M_RLN_0020",
+      "speaker_code": "RLN",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 380,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X25_A1_0010_M_RLN_0030",
+      "speaker_code": "RLN",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 385,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X25_BATTLE_01_AFTER_M_RLN_0020",
+      "speaker_code": "RLN",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 427,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X26_A0_0023_F_FRE_0030",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 520,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X26_A0_0023_F_FRE_0040",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 521,
+      "english_text": "....."
+    },
+    {
+      "self_id": "MS13_X26_A0_0023_F_FRE_0050",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 522,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X26_A0_0030_F_FRE_0050",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 538,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X26_BATTLE_01_BEFORE_F_ERK_0070",
+      "speaker_code": "ERK",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 630,
+      "english_text": "!?"
+    },
+    {
+      "self_id": "MS13_X26_BATTLE_01_BEFORE_F_FRE_0020",
+      "speaker_code": "FRE",
+      "bank": "MS13_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 633,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS13_X26_RESEARCH_01_BEFORE_M_M193_0010",
+      "speaker_code": "M193",
+      "bank": "MS13_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 674
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter13_voice_mapping\\chapter13_omnivoice_studio.csv",
+  "sha256": "9cf64a21cb3a7d4405ef1d7f0c2c95d98b35615031ca570971f4af418e263f9e"
+}

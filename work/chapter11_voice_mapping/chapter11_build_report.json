@@ -1,0 +1,203 @@
+{
+  "chapter": 11,
+  "banks": {
+    "MS11_EN": 696
+  },
+  "bank_audio_cues": 696,
+  "tts_rows": 682,
+  "keep_original_rows": 14,
+  "coverage_equation": "682 TTS + 14 original = 696/696",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 465,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 217
+  },
+  "pending_reference_characters": [
+    {
+      "code": "GST",
+      "character_name": "กุสตาดอล์ฟ",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "gustadolph",
+      "spoken_lines": 6
+    },
+    {
+      "code": "IDO",
+      "character_name": "อีดอร์",
+      "gender": "male",
+      "age": "elderly",
+      "voice_target": "idore",
+      "spoken_lines": 43
+    },
+    {
+      "code": "JRM",
+      "character_name": "เจอร์รอม",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "jerrom",
+      "spoken_lines": 76
+    },
+    {
+      "code": "KNS",
+      "character_name": "แคมเซลล์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "kamsell",
+      "spoken_lines": 5
+    },
+    {
+      "code": "MIR",
+      "character_name": "ไมโล",
+      "gender": "female",
+      "age": "young adult",
+      "voice_target": "milo",
+      "spoken_lines": 11
+    },
+    {
+      "code": "ROF",
+      "character_name": "รูฟัส",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "rufus",
+      "spoken_lines": 26
+    },
+    {
+      "code": "SLV",
+      "character_name": "ซิลวิโอ้",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "silvio",
+      "spoken_lines": 50
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS11_F01_C0_1010_F_FRE_0005",
+      "speaker_code": "FRE",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 117,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_F02_A1_0010_M_SEL_0050",
+      "speaker_code": "SEL",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 176,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_A0_0010_F_ERK_0020",
+      "speaker_code": "ERK",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 193,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_C0_0020_F_FRE_0020",
+      "speaker_code": "FRE",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 223,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_RESEARCH_01_BEFORE_F_FRE_0020",
+      "speaker_code": "FRE",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 262,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_VOTE_110_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 276,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_VOTE_120_M_BND_0010",
+      "speaker_code": "BND",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 280,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_VOTE_START_F_FRE_0020",
+      "speaker_code": "FRE",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 287,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_H01_VOTE_START_M_RLN_0070",
+      "speaker_code": "RLN",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 304,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_X20_A1_0010_M_SEL_0050",
+      "speaker_code": "SEL",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 335,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_X21_A1_2010_M_ROF_0020",
+      "speaker_code": "ROF",
+      "bank": "MS11_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 528
+    },
+    {
+      "self_id": "MS11_X21_A1_2020_M_RLN_0010",
+      "speaker_code": "RLN",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 529,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_X21_BATTLE_01_AFTER_M_BND_0030",
+      "speaker_code": "BND",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 569,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS11_X21_RESEARCH_01_BEFORE_M_ELD_0120",
+      "speaker_code": "ELD",
+      "bank": "MS11_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 674,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter11_voice_mapping\\chapter11_omnivoice_studio.csv",
+  "sha256": "98160f176ed5244b9e2ef51ca1b942afb59ea0af2843d523003305f8fa4937c0"
+}

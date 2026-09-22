@@ -1,0 +1,116 @@
+{
+  "chapter": 9,
+  "banks": {
+    "MS09_EN": 408
+  },
+  "bank_audio_cues": 408,
+  "tts_rows": 402,
+  "keep_original_rows": 6,
+  "coverage_equation": "402 TTS + 6 original = 408/408",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 347,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 55
+  },
+  "pending_reference_characters": [
+    {
+      "code": "BKR",
+      "character_name": "บุ๊กเกอร์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "booker",
+      "spoken_lines": 22
+    },
+    {
+      "code": "CLR",
+      "character_name": "แคลรุส",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "clarus",
+      "spoken_lines": 4
+    },
+    {
+      "code": "GST",
+      "character_name": "กุสตาดอล์ฟ",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "gustadolph",
+      "spoken_lines": 5
+    },
+    {
+      "code": "KNS",
+      "character_name": "แคมเซลล์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "kamsell",
+      "spoken_lines": 14
+    },
+    {
+      "code": "SVR",
+      "character_name": "สวาร็อค",
+      "gender": "male",
+      "age": "older adult",
+      "voice_target": "svarog",
+      "spoken_lines": 10
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS09_H01_A1_0020_M_SEL_0030",
+      "speaker_code": "SEL",
+      "bank": "MS09_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 68,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS09_H01_A1_1010_M_SEL_0010",
+      "speaker_code": "SEL",
+      "bank": "MS09_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 96,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS09_H01_B0_0010_M_SVR_0040",
+      "speaker_code": "SVR",
+      "bank": "MS09_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 122,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS09_X14_A0_0010_F_CRD_0030",
+      "speaker_code": "CRD",
+      "bank": "MS09_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 194,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS09_X14_BATTLE_01_BEFORE_M_SEL_0030",
+      "speaker_code": "SEL",
+      "bank": "MS09_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 241,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS09_X15_C0_0010_M_SEL_0020",
+      "speaker_code": "SEL",
+      "bank": "MS09_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 337,
+      "english_text": "......?"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter9_voice_mapping\\chapter9_omnivoice_studio.csv",
+  "sha256": "fd95107ec72aa77027a2031244fb3a18715296beed581be23f024991753b80c2"
+}

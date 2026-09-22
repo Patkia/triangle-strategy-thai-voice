@@ -1,0 +1,328 @@
+{
+  "chapter": 7,
+  "bank": "MS07_EN",
+  "bank_audio_cues": 620,
+  "tts_rows": 587,
+  "keep_original_rows": 33,
+  "coverage_equation": "587 TTS + 33 original = 620/620",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 427,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 160
+  },
+  "pending_reference_characters": [
+    {
+      "code": "BKR",
+      "character_name": "บุ๊กเกอร์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "booker",
+      "spoken_lines": 14
+    },
+    {
+      "code": "GST",
+      "character_name": "กุสตาดอล์ฟ",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "gustadolph",
+      "spoken_lines": 40
+    },
+    {
+      "code": "LND",
+      "character_name": "แลนดรอย",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "landroi",
+      "spoken_lines": 53
+    },
+    {
+      "code": "PTR",
+      "character_name": "พาทริเอ็ทท์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "patriatte",
+      "spoken_lines": 20
+    },
+    {
+      "code": "SEC",
+      "character_name": "ซิคราส",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "sycras",
+      "spoken_lines": 6
+    },
+    {
+      "code": "SLV",
+      "character_name": "ซิลวิโอ้",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "silvio",
+      "spoken_lines": 21
+    },
+    {
+      "code": "SVR",
+      "character_name": "สวาร็อค",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "svarog",
+      "spoken_lines": 6
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS07_H01_A0_0010_F_CRD_0010",
+      "speaker_code": "CRD",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 1,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_0010_F_CRD_0020",
+      "speaker_code": "CRD",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 2,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_M_LGN_0010",
+      "speaker_code": "LGN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 53,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_M_LGN_0020",
+      "speaker_code": "LGN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 54,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_M_LGN_0030",
+      "speaker_code": "LGN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 55,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_N_M422_0010",
+      "speaker_code": "M422",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 59,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_N_M422_0020",
+      "speaker_code": "M422",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 60,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_N_M422_0030",
+      "speaker_code": "M422",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 61,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_N_M422_0040",
+      "speaker_code": "M422",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 62,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A0_1020_N_M422_0050",
+      "speaker_code": "M422",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 63,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS07_H01_A1_1040_M_SEL_0070",
+      "speaker_code": "SEL",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 143,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_A1_1050_M_RLN_0010",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 149,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_H01_VOTE_120_F_FRE_0010",
+      "speaker_code": "FRE",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 188
+    },
+    {
+      "self_id": "MS07_H01_VOTE_DRAMA_M_RLN_S03_0010",
+      "speaker_code": "S03",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 199
+    },
+    {
+      "self_id": "MS07_X08_A1_0010_M_SEL_0010",
+      "speaker_code": "SEL",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 243
+    },
+    {
+      "self_id": "MS07_X08_A1_0010_M_SEL_0020",
+      "speaker_code": "SEL",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 244
+    },
+    {
+      "self_id": "MS07_X08_A1_0030_M_RLN_0060",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 268,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS07_X08_A2_0010_M_SLV_0030",
+      "speaker_code": "SLV",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 281,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X08_A2_0020_M_SLV_0060",
+      "speaker_code": "SLV",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 295,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X08_A3_0010_M_M161_0010",
+      "speaker_code": "M161",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 304
+    },
+    {
+      "self_id": "MS07_X08_BATTLE_01_DRAMA_M_M05_0010",
+      "speaker_code": "M05",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 341
+    },
+    {
+      "self_id": "MS07_X08_BATTLE_01_DRAMA_M_M06_0010",
+      "speaker_code": "M06",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 342
+    },
+    {
+      "self_id": "MS07_X08_BATTLE_01_DRAMA_M_M07_0010",
+      "speaker_code": "M07",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 343
+    },
+    {
+      "self_id": "MS07_X08_RESEARCH_01_BEFORE_F_FRE_0010",
+      "speaker_code": "FRE",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 377
+    },
+    {
+      "self_id": "MS07_X09_A0_0010_F_ABR_0030",
+      "speaker_code": "ABR",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 401,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X09_A0_0010_M_GST_0010",
+      "speaker_code": "GST",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 407,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X09_A0_0010_M_RLN_0030",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 422,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS07_X09_A0_0010_M_RLN_0070",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 426,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X09_A0_0010_M_RLN_0110",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 430,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS07_X09_A0_0010_M_RLN_0120",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 431,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X09_A0_0030_M_RLN_0030",
+      "speaker_code": "RLN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 448,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS07_X09_A3_0030_M_BND_0020",
+      "speaker_code": "BND",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 527,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS07_X09_BATTLE_01_DRAMA_M_M08_0010",
+      "speaker_code": "M08",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 579
+    }
+  ],
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter7_voice_mapping\\chapter7_omnivoice_studio.csv"
+}

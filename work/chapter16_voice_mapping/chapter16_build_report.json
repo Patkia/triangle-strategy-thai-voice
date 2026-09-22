@@ -1,0 +1,29 @@
+{
+  "chapter": 16,
+  "banks": {
+    "MS16_EN": 242
+  },
+  "bank_audio_cues": 242,
+  "tts_rows": 241,
+  "keep_original_rows": 1,
+  "coverage_equation": "241 TTS + 1 original = 242/242",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 241
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS16_X34_A1_1020_F_MIR_0010",
+      "speaker_code": "MIR",
+      "bank": "MS16_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 38,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter16_voice_mapping\\chapter16_omnivoice_studio.csv",
+  "sha256": "d665a9372af389855df2c2218d01240a2a1fe001b5ac561ff8dd4e2b84c7219a"
+}

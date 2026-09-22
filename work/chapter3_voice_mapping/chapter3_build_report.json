@@ -1,0 +1,336 @@
+{
+  "chapter": 3,
+  "bank": "MS03_EN",
+  "bank_audio_cues": 604,
+  "spoken_tts_rows": 587,
+  "nonverbal_ellipsis_keep_original": 15,
+  "audio_only_no_text_keep_original": 2,
+  "coverage_equation": "587 TTS + 15 ellipsis original + 2 audio-only original = 604/604",
+  "ready_existing_voice_rows": 377,
+  "blocked_pending_reference_audio_rows": 210,
+  "pending_reference_target_characters": 10,
+  "pending_reference_targets": [
+    {
+      "voice_target": "gustadolph",
+      "character_name": "กุสตาดอล์ฟ",
+      "gender": "male",
+      "spoken_lines": 50,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/gustadolph.wav"
+    },
+    {
+      "voice_target": "sycras",
+      "character_name": "ซิคราส",
+      "gender": "male",
+      "spoken_lines": 45,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/sycras.wav"
+    },
+    {
+      "voice_target": "rudolph",
+      "character_name": "รูดอล์ฟ",
+      "gender": "male",
+      "spoken_lines": 30,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/rudolph.wav"
+    },
+    {
+      "voice_target": "corentin",
+      "character_name": "คอเรนติน",
+      "gender": "male",
+      "spoken_lines": 27,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/corentin.wav"
+    },
+    {
+      "voice_target": "idore",
+      "character_name": "อีดอร์",
+      "gender": "male",
+      "spoken_lines": 23,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/idore.wav"
+    },
+    {
+      "voice_target": "svarog",
+      "character_name": "สวาร็อค",
+      "gender": "male",
+      "spoken_lines": 15,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/svarog.wav"
+    },
+    {
+      "voice_target": "patriatte",
+      "character_name": "พาทริเอ็ทท์",
+      "gender": "male",
+      "spoken_lines": 10,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/patriatte.wav"
+    },
+    {
+      "voice_target": "kamsell",
+      "character_name": "แคมเซลล์",
+      "gender": "male",
+      "spoken_lines": 5,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/kamsell.wav"
+    },
+    {
+      "voice_target": "landroi",
+      "character_name": "แลนดรอย",
+      "gender": "male",
+      "spoken_lines": 3,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/landroi.wav"
+    },
+    {
+      "voice_target": "silvio",
+      "character_name": "ซิลวิโอ้",
+      "gender": "male",
+      "spoken_lines": 2,
+      "planned_reference_audio": "work/chapter3_voice_mapping/chapter3_voice_references/approved/silvio.wav"
+    }
+  ],
+  "nonverbal_rows": [
+    {
+      "self_id": "MS03_H01_A0_0010_F_FRE_0010",
+      "speaker_code": "FRE",
+      "character_name": "เฟรเดอริก้า",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 3,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_H01_VOTE_110_F_FRE_0010",
+      "speaker_code": "FRE",
+      "character_name": "เฟรเดอริก้า",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 48,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X03_A0_0010_F_CRD_0050",
+      "speaker_code": "CRD",
+      "character_name": "คอร์เดเลีย",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 114,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X03_B0_0010_M_RLN_0040",
+      "speaker_code": "RLN",
+      "character_name": "โรแลนด์",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 127,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X03_B0_0010_M_SVR_0020",
+      "speaker_code": "SVR",
+      "character_name": "สวาร็อค",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 134,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X03_B0_2010_M_SEL_0020",
+      "speaker_code": "SEL",
+      "character_name": "เซเรโนอา",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 245,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X03_BATTLE_01_BEFORE_M_SEL_0020",
+      "speaker_code": "SEL",
+      "character_name": "เซเรโนอา",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 333,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_BATTLE_01_AFTER_M_COR_0010",
+      "speaker_code": "COR",
+      "character_name": "คอเรนติน",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 381,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_C0_0010_F_FRE_0010",
+      "speaker_code": "FRE",
+      "character_name": "เฟรเดอริก้า",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 429,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_C0_0010_F_POP_0010",
+      "speaker_code": "POP",
+      "character_name": "หัวหน้านักบวช",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 431,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_C0_0010_F_POP_0020",
+      "speaker_code": "POP",
+      "character_name": "หัวหน้านักบวช",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 432,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_C0_0010_F_POP_0030",
+      "speaker_code": "POP",
+      "character_name": "หัวหน้านักบวช",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 433,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_C0_2010_M_BND_0030",
+      "speaker_code": "BND",
+      "character_name": "เบเนดิกต์",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 491,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_C0_2010_M_RLN_0050",
+      "speaker_code": "RLN",
+      "character_name": "โรแลนด์",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 500,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_X04_RESEARCH_01_BEFORE_F_FRE_0010",
+      "speaker_code": "FRE",
+      "character_name": "เฟรเดอริก้า",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 578,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    }
+  ],
+  "audio_only_rows": [
+    {
+      "self_id": "MS03_H01_WD_0010_N_NNN_0030",
+      "speaker_code": "NNN",
+      "character_name": "Narrator",
+      "awb_stream": 107,
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS03_H01_WD_0010_N_NNN_0040",
+      "speaker_code": "NNN",
+      "character_name": "Narrator",
+      "awb_stream": 108,
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    }
+  ],
+  "voice_target_counts": {
+    "FEMALE_YOUNG_A": 1,
+    "MALE_ADULT_A": 2,
+    "MALE_ADULT_B": 3,
+    "MALE_ADULT_C": 11,
+    "MALE_ANGER_STRONG_01": 1,
+    "MALE_YOUNG_A": 1,
+    "anna": 7,
+    "avlora": 4,
+    "benedict": 36,
+    "cordelia": 4,
+    "corentin": 27,
+    "dragan": 3,
+    "erador": 9,
+    "erika": 5,
+    "exharme": 30,
+    "frani": 5,
+    "frederica": 36,
+    "geela": 12,
+    "gustadolph": 50,
+    "hughette": 8,
+    "idore": 23,
+    "kamsell": 5,
+    "landroi": 3,
+    "lyla": 26,
+    "maxwell": 2,
+    "narrator": 9,
+    "patriatte": 10,
+    "roland": 38,
+    "rudolph": 30,
+    "serenoa": 106,
+    "silvio": 2,
+    "sorsley": 7,
+    "svarog": 15,
+    "sycras": 45,
+    "thalas": 11
+  },
+  "character_spoken_counts": {
+    "Narrator": 9,
+    "กุสตาดอล์ฟ": 50,
+    "คอร์เดเลีย": 4,
+    "คอเรนติน": 27,
+    "จีล่า": 12,
+    "ชาวไฮแซนต์": 2,
+    "ซอสเลย์": 7,
+    "ซิคราส": 45,
+    "ซิลวิโอ้": 2,
+    "ดราแกน": 3,
+    "ธาลาส": 11,
+    "นักวิจัยไฮแซนต์": 10,
+    "ผู้ร้าย": 1,
+    "พาทริเอ็ทท์": 10,
+    "พ่อค้าตลาดมืด": 4,
+    "รูดอล์ฟ": 30,
+    "สวาร็อค": 15,
+    "หญิงชาวไฮแซนต์": 1,
+    "หัวหน้าผู้ร้าย": 1,
+    "อัฟโลร่า": 4,
+    "อีดอร์": 23,
+    "ฮิวเอทท์": 8,
+    "เซเรโนอา": 106,
+    "เบเนดิกต์": 36,
+    "เฟรเดอริก้า": 36,
+    "เอกซ์เฮม": 30,
+    "เอราดอร์": 9,
+    "เอริก้า": 5,
+    "แคมเซลล์": 5,
+    "แฟรนี่": 5,
+    "แม็กซ์เวลล์": 2,
+    "แลนดรอย": 3,
+    "แอนนา": 7,
+    "โรแลนด์": 38,
+    "ไลล่า": 26
+  },
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter3_voice_mapping\\chapter3_omnivoice_studio.csv",
+  "ready_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter3_voice_mapping\\chapter3_ready_377.csv",
+  "pending_reference_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter3_voice_mapping\\chapter3_pending_reference_210.csv",
+  "pending_targets_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter3_voice_mapping\\chapter3_pending_voice_targets.csv",
+  "generation_performed": false,
+  "safe_to_import_ready_csv": true,
+  "safe_to_import_canonical_now": false,
+  "import_gate": "Ready CSV can be generated now. Pending targets already exist in the OmniVoice map as fail-closed placeholders; add/approve each reference WAV and update that target's reference conditioning, then rebuild/validate before generating those rows."
+}

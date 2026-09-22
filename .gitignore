@@ -20,7 +20,28 @@
 /subthai/
 /men/
 /Output/
-/work/
+
+# Allow Git to enter work/
+!/work/
+
+# Ignore everything inside work by default
+/work/*
+
+# Track every chapter voice mapping folder
+# Allow chapter mapping folders
+!/work/chapter*_voice_mapping/
+
+# Track only canonical chapter files
+!/work/chapter*_voice_mapping/chapter*_omnivoice_studio.csv
+!/work/chapter*_voice_mapping/build_chapter*_omnivoice_csv.py
+!/work/chapter*_voice_mapping/chapter*_build_report.json
+
+# Shared builders
+!/work/chapter*_common_builder.py
+
+# Track shared chapter builders
+!/work/chapter*_common_builder.py
+
 /vgmstream-win64/
 /FModel.exe
 *.pak

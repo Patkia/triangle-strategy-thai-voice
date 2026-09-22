@@ -1,0 +1,133 @@
+{
+  "chapter": 12,
+  "banks": {
+    "MS12_EN": 259
+  },
+  "bank_audio_cues": 259,
+  "tts_rows": 252,
+  "keep_original_rows": 7,
+  "coverage_equation": "252 TTS + 7 original = 259/259",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 144,
+    "BLOCKED_PENDING_REFERENCE_AUDIO": 108
+  },
+  "pending_reference_characters": [
+    {
+      "code": "GST",
+      "character_name": "กุสตาดอล์ฟ",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "gustadolph",
+      "spoken_lines": 26
+    },
+    {
+      "code": "IDO",
+      "character_name": "อีดอร์",
+      "gender": "male",
+      "age": "elderly",
+      "voice_target": "idore",
+      "spoken_lines": 25
+    },
+    {
+      "code": "JRM",
+      "character_name": "เจอร์รอม",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "jerrom",
+      "spoken_lines": 18
+    },
+    {
+      "code": "KNS",
+      "character_name": "แคมเซลล์",
+      "gender": "male",
+      "age": "middle-aged",
+      "voice_target": "kamsell",
+      "spoken_lines": 5
+    },
+    {
+      "code": "ROF",
+      "character_name": "รูฟัส",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "rufus",
+      "spoken_lines": 17
+    },
+    {
+      "code": "SLV",
+      "character_name": "ซิลวิโอ้",
+      "gender": "male",
+      "age": "young adult",
+      "voice_target": "silvio",
+      "spoken_lines": 17
+    }
+  ],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS12_F01_A0_0010_F_ABR_0030",
+      "speaker_code": "ABR",
+      "bank": "MS12_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 3,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS12_F01_C0_0020_M_SEL_0050",
+      "speaker_code": "SEL",
+      "bank": "MS12_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 57,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS12_F01_C0_1005_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS12_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 59,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS12_H01_A0_0010_F_CRD_0070",
+      "speaker_code": "CRD",
+      "bank": "MS12_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 124,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS12_H01_A1_0015_M_JRM_0010",
+      "speaker_code": "JRM",
+      "bank": "MS12_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 149,
+      "english_text": "!?"
+    },
+    {
+      "self_id": "MS12_H01_A1_0015_M_SEL_0030",
+      "speaker_code": "SEL",
+      "bank": "MS12_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 153,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS12_X22_BATTLE_01_AFTER_M_SEL_0050",
+      "speaker_code": "SEL",
+      "bank": "MS12_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 225,
+      "english_text": "...!"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter12_voice_mapping\\chapter12_omnivoice_studio.csv",
+  "sha256": "2d0f74c609427c8b953afb9fed093bfadc8239ba1d1dc60ae37551625a41aa3e"
+}

@@ -1,0 +1,56 @@
+{
+  "chapter": 14,
+  "banks": {
+    "MS14_EN": 430
+  },
+  "bank_audio_cues": 430,
+  "tts_rows": 426,
+  "keep_original_rows": 4,
+  "coverage_equation": "426 TTS + 4 original = 430/430",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 426
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [],
+  "keep_original_detail": [
+    {
+      "self_id": "MS14_X27_A0_0020_M_SEL_0010",
+      "speaker_code": "SEL",
+      "bank": "MS14_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 125,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS14_X27_A0_1020_M_BND_0100",
+      "speaker_code": "BND",
+      "bank": "MS14_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 160,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS14_X28_A0_0025_M_RLN_0040",
+      "speaker_code": "RLN",
+      "bank": "MS14_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 245,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS14_X28_BATTLE_01_BEFORE_M_RLN_0030",
+      "speaker_code": "RLN",
+      "bank": "MS14_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 293,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter14_voice_mapping\\chapter14_omnivoice_studio.csv",
+  "sha256": "d71e7543e9354797cf656b41eb10fbd07f7d25c9f7f48fd540e5b7beb6a5ba1f"
+}

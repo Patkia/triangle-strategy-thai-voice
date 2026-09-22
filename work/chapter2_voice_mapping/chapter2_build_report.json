@@ -1,0 +1,179 @@
+{
+  "chapter": 2,
+  "bank": "MS02_EN",
+  "bank_audio_cues": 376,
+  "spoken_tts_rows": 371,
+  "nonverbal_ellipsis_keep_original": 5,
+  "coverage_equation": "371 TTS + 5 original nonverbal = 376/376",
+  "thai_exact_high_coverage": 376,
+  "missing_voice_target_characters": 10,
+  "missing_voice_target_rows": 161,
+  "ready_reused_rows": 210,
+  "missing_voice_targets": [
+    {
+      "speaker_code": "DRG",
+      "character_name": "ดราแกน",
+      "gender": "male",
+      "spoken_lines": 50,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "LGN",
+      "character_name": "เร็กน่า",
+      "gender": "male",
+      "spoken_lines": 28,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "LYL",
+      "character_name": "ไลล่า",
+      "gender": "female",
+      "spoken_lines": 23,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "MAX",
+      "character_name": "แม็กซ์เวลล์",
+      "gender": "male",
+      "spoken_lines": 17,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "EGS",
+      "character_name": "เอกซ์เฮม",
+      "gender": "male",
+      "spoken_lines": 13,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "SLS",
+      "character_name": "ซอสเลย์",
+      "gender": "male",
+      "spoken_lines": 8,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "TRS",
+      "character_name": "ธาลาส",
+      "gender": "male",
+      "spoken_lines": 8,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "ABR",
+      "character_name": "อัฟโลร่า",
+      "gender": "female",
+      "spoken_lines": 6,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "CRD",
+      "character_name": "คอร์เดเลีย",
+      "gender": "female",
+      "spoken_lines": 5,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    },
+    {
+      "speaker_code": "ERK",
+      "character_name": "เอริก้า",
+      "gender": "female",
+      "spoken_lines": 3,
+      "voice_target": "NEEDS_VOICE_TARGET"
+    }
+  ],
+  "nonverbal_rows": [
+    {
+      "self_id": "MS02_X02_A0_0020_M_BND_0010",
+      "speaker_code": "BND",
+      "character_name": "เบเนดิกต์",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 55,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS02_X02_A1_0030_M_DRG_0290",
+      "speaker_code": "DRG",
+      "character_name": "ดราแกน",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 176,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS02_X02_A1_1010_M_BND_0010",
+      "speaker_code": "BND",
+      "character_name": "เบเนดิกต์",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 195,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS02_X02_BATTLE_01_AFTER_01_M_MAX_0040",
+      "speaker_code": "MAX",
+      "character_name": "แม็กซ์เวลล์",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 222,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    },
+    {
+      "self_id": "MS02_X02_RESEARCH_01_AFTER_M_SEL_0070",
+      "speaker_code": "SEL",
+      "character_name": "เซเรโนอา",
+      "english_text": "......",
+      "thai_text": "......",
+      "awb_stream": 312,
+      "classification": "NONVERBAL_ELLIPSIS_NOT_TTS",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO"
+    }
+  ],
+  "voice_target_counts": {
+    "MALE_ADULT_B": 3,
+    "MALE_OLD_A": 3,
+    "MALE_YOUNG_B": 1,
+    "NEEDS_VOICE_TARGET": 161,
+    "benedict": 11,
+    "erador": 2,
+    "frani": 10,
+    "frederica": 20,
+    "hughette": 3,
+    "narrator": 8,
+    "roland": 41,
+    "serenoa": 65,
+    "symon": 43
+  },
+  "character_spoken_counts": {
+    "Narrator": 8,
+    "คอร์เดเลีย": 5,
+    "ซอสเลย์": 8,
+    "ซีมอน": 43,
+    "ดราแกน": 50,
+    "ทหารวูล์ฟฟอร์ต": 1,
+    "ธาลาส": 8,
+    "พาทริเอ็ทท์": 3,
+    "อัฟโลร่า": 6,
+    "ฮิวเอทท์": 3,
+    "เซเรโนอา": 65,
+    "เบเนดิกต์": 11,
+    "เฟรเดอริก้า": 20,
+    "เร็กน่า": 28,
+    "เอกซ์เฮม": 13,
+    "เอราดอร์": 2,
+    "เอริก้า": 3,
+    "แขก": 3,
+    "แฟรนี่": 10,
+    "แม็กซ์เวลล์": 17,
+    "โรแลนด์": 41,
+    "ไลล่า": 23
+  },
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter2_voice_mapping\\chapter2_omnivoice_studio.csv",
+  "generation_performed": false,
+  "safe_to_import_now": false,
+  "import_gate": "Add/approve the 10 missing dedicated voice targets first; then replace NEEDS_VOICE_TARGET and validate references before OmniVoice import."
+}

@@ -1,0 +1,228 @@
+{
+  "chapter": 15,
+  "banks": {
+    "MS15_EN": 1259
+  },
+  "bank_audio_cues": 1259,
+  "tts_rows": 1237,
+  "keep_original_rows": 22,
+  "coverage_equation": "1237 TTS + 22 original = 1259/1259",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 1193,
+    "BLOCKED_NEEDS_VOICE_TARGET": 44
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [
+    {
+      "code": "ORL",
+      "character_name": "Orlaea",
+      "gender": "female",
+      "age": "adult / middle-aged",
+      "desired_target": "orlaea",
+      "spoken_lines": 44
+    }
+  ],
+  "keep_original_detail": [
+    {
+      "self_id": "MS15_F01_A0_0010_M_SEL_0040",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 40,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_F01_A0_0020_M_BND_0120",
+      "speaker_code": "BND",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 55,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_F01_A0_0020_M_BND_0250",
+      "speaker_code": "BND",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 69,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_F01_A0_0020_M_SEL_0110",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 82,
+      "english_text": "...!?"
+    },
+    {
+      "self_id": "MS15_H01_A0_0020_F_CRD_0140",
+      "speaker_code": "CRD",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 193,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_H01_A0_0030_M_PTR_0090",
+      "speaker_code": "PTR",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 224,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_H01_A0_1010_M_SEL_0050",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 282,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X30_A1_2010_M_BND_0010",
+      "speaker_code": "BND",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 444,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X30_A1_2020_M_BND_0170",
+      "speaker_code": "BND",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 473,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X30_A1_2020_M_SEL_0120",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 489,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X30_RESEARCH_01_BEFORE_M_BND_0020",
+      "speaker_code": "BND",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 603,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X30_RESEARCH_01_BEFORE_M_SEL_0050",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 611,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X31_A0_0010_M_RLN_0040",
+      "speaker_code": "RLN",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 653,
+      "english_text": "...!"
+    },
+    {
+      "self_id": "MS15_X31_A0_0020_F_M259_0010",
+      "speaker_code": "M259",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 659,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X31_A0_0020_M_RLN_0030",
+      "speaker_code": "RLN",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 679,
+      "english_text": "...!"
+    },
+    {
+      "self_id": "MS15_X31_A0_1020_M_RLN_0010",
+      "speaker_code": "RLN",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 714,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X31_A0_1020_M_SEL_0040",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 737,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X31_BATTLE_01_AFTER_M_RLN_0060",
+      "speaker_code": "RLN",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 758,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X31_RESEARCH_01_BEFORE_M_SEL_0010",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 838,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X32_RESEARCH_01_AFTER_M_SEL_0020",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 958,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X32_RESEARCH_01_BEFORE_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 960,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS15_X33_BATTLE_01_AFTER_M_SEL_0020",
+      "speaker_code": "SEL",
+      "bank": "MS15_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 1109,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "Always keep original game audio; never include POP in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter15_voice_mapping\\chapter15_omnivoice_studio.csv",
+  "sha256": "b5615a64c4c8ea184bbf967cbe6bcd90925116696fc19d038197ae82818003f7"
+}
