@@ -35,6 +35,12 @@ Unicode Thai master → OmniVoice Thai → WAV/HCA/AWB
 
 > ในทวีปอันห่างไกลแห่งนอร์เซเลีย ถูกปกครองโดยอาณาจักรมหาอำนาจทั้งสาม
 
+## วิดีโอตัวอย่าง
+
+ตัวอย่าง Intro บน Nintendo Switch ที่เปิดใช้งาน **ซับไทย + พากย์ไทย**:
+
+[▶️ ดูวิดีโอ Intro ตัวอย่าง](docs/media/intro.mp4)
+
 ## ขอบเขต repository
 
 Repository นี้ **ไม่แจก** ROM, game PAK, assets, audio, font, PAK ของม็อด, Steam translation PAK หรือ output ที่สร้างจาก asset ของเกม ผู้ใช้ต้องจัดหา input ที่ได้มาโดยชอบด้วยกฎหมายด้วยตนเอง และใช้ config/path ในเครื่องของตนเอง

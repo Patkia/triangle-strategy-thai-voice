@@ -14,6 +14,8 @@
 !docs/
 !docs/github-readiness-audit.md
 !docs/github-safe-curation.md
+!docs/media/
+!docs/media/intro.mp4
 
 # Always keep local, even if a future allowlist is expanded.
 /TRIANGLE STRATEGY */
