@@ -1,0 +1,129 @@
+{
+  "chapter": 18,
+  "banks": {
+    "MS18B_EN": 317,
+    "MS18F_EN": 160,
+    "MS18R_EN": 119,
+    "MS18S_EN": 182
+  },
+  "bank_audio_cues": 778,
+  "tts_rows": 775,
+  "keep_original_rows": 3,
+  "coverage_equation": "775 TTS + 3 original = 778/778",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 775
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [],
+  "generic_assignments": [
+    {
+      "code": "M345",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M351",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M383",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 4
+    },
+    {
+      "code": "M384",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 4
+    },
+    {
+      "code": "M396",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M397",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M412",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M437",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MB152T01",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_B",
+      "spoken_lines": 2
+    },
+    {
+      "code": "MB154T01",
+      "gender": "male",
+      "age": "child",
+      "voice_target": "MALE_CHILD_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MB155T01",
+      "gender": "female",
+      "age": "child",
+      "voice_target": "FEMALE_CHILD_A",
+      "spoken_lines": 2
+    }
+  ],
+  "keep_original_detail": [
+    {
+      "self_id": "MS18B_X39_A0_0030_M_SEL_0180",
+      "speaker_code": "SEL",
+      "bank": "MS18B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 123,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS18F_X41_C0_0020_F_FRE_0010",
+      "speaker_code": "FRE",
+      "bank": "MS18F_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 95,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS18F_X41_RESEARCH_01_AFTER_F_FRE_0020",
+      "speaker_code": "FRE",
+      "bank": "MS18F_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 136,
+      "english_text": "!?"
+    }
+  ],
+  "hierophant_policy": "POP / Hierophant is always kept as original game audio and never included in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter18_voice_mapping\\chapter18_omnivoice_studio.csv",
+  "sha256": "6c2fecb0f51898494b0ce3cd4306e036b3383e295ea50c018fb30069763c27cf"
+}

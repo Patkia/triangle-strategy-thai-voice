@@ -1,0 +1,618 @@
+{
+  "chapter": 19,
+  "banks": {
+    "MS19B_EN": 316,
+    "MS19F_EN": 370,
+    "MS19R_EN": 318,
+    "MS19S_EN": 153
+  },
+  "bank_audio_cues": 1157,
+  "tts_rows": 1136,
+  "keep_original_rows": 21,
+  "coverage_equation": "1136 TTS + 21 original = 1157/1157",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 1136
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [],
+  "generic_assignments": [
+    {
+      "code": "ELD",
+      "gender": "male",
+      "age": "old",
+      "voice_target": "MALE_OLD_A",
+      "spoken_lines": 5
+    },
+    {
+      "code": "M346",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M347",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M348",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M349",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_YOUNG_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M350",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M361",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M362",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 4
+    },
+    {
+      "code": "M369",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M370",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M371",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M373",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M374",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M375",
+      "gender": "female",
+      "age": "child",
+      "voice_target": "FEMALE_CHILD_A",
+      "spoken_lines": 4
+    },
+    {
+      "code": "M376",
+      "gender": "male",
+      "age": "child",
+      "voice_target": "MALE_CHILD_A",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M377",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_A",
+      "spoken_lines": 8
+    },
+    {
+      "code": "M378",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 9
+    },
+    {
+      "code": "M385",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M386",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M387",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M388",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M389",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M390",
+      "gender": "female",
+      "age": "child",
+      "voice_target": "FEMALE_CHILD_A",
+      "spoken_lines": 7
+    },
+    {
+      "code": "M391",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M392",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M393",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M394",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M399",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_B",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M400",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M401",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M410",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M413",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M414",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M425",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_A",
+      "spoken_lines": 6
+    },
+    {
+      "code": "M426",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 5
+    },
+    {
+      "code": "M427",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 7
+    },
+    {
+      "code": "M428",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_A",
+      "spoken_lines": 4
+    },
+    {
+      "code": "M429",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M430",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M431",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M432",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M433",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M434",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_ADULT_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M435",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 6
+    },
+    {
+      "code": "M436",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_YOUNG_A",
+      "spoken_lines": 5
+    },
+    {
+      "code": "MB011T02",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 2
+    },
+    {
+      "code": "MB011T03",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 2
+    },
+    {
+      "code": "MB152T02",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_YOUNG_A",
+      "spoken_lines": 2
+    },
+    {
+      "code": "MB536T01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 26
+    },
+    {
+      "code": "MS19X43B01M02",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS19X43B01M03",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS19X43B02M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 4
+    },
+    {
+      "code": "MS19X44B01M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS19X45B01M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS19X45B02M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "MS19X45B02M02",
+      "gender": "female",
+      "age": "adult",
+      "voice_target": "FEMALE_YOUNG_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "MS19X45B02M03",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS19X46B01M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 1
+    }
+  ],
+  "keep_original_detail": [
+    {
+      "self_id": "MS19B_X43_A0_0010_F_FRE_0060",
+      "speaker_code": "FRE",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 9,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_A1_0010_M_BND_0120",
+      "speaker_code": "BND",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 39,
+      "english_text": "...!"
+    },
+    {
+      "self_id": "MS19B_X43_A1_1010_M_RLN_0070",
+      "speaker_code": "RLN",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 68,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_01_BEFORE_M_BND_0060",
+      "speaker_code": "BND",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 92,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_01_BEFORE_M_SEL_0070",
+      "speaker_code": "SEL",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 116,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_AFTER_M_SEL_0040",
+      "speaker_code": "SEL",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 162,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_BEFORE_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS19B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 167,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_BEFORE_M_ENG_0085",
+      "speaker_code": "ENG",
+      "bank": "MS19B_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 188
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_BEFORE_M_ENG_0090",
+      "speaker_code": "ENG",
+      "bank": "MS19B_EN",
+      "classification": "AUDIO_ONLY_NO_TEXT_INDEX",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 189
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_BEFORE_M_SEL_0060",
+      "speaker_code": "SEL",
+      "bank": "MS19B_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 196,
+      "english_text": "!?"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_DRAMA_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS19B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 211,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_DRAMA_F_POP_0020",
+      "speaker_code": "POP",
+      "bank": "MS19B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 212,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_DRAMA_F_POP_0030",
+      "speaker_code": "POP",
+      "bank": "MS19B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 213,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_DRAMA_F_POP_0040",
+      "speaker_code": "POP",
+      "bank": "MS19B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 214,
+      "english_text": "......!"
+    },
+    {
+      "self_id": "MS19B_X43_BATTLE_02_DRAMA_F_POP_0050",
+      "speaker_code": "POP",
+      "bank": "MS19B_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 215,
+      "english_text": "GRAAAAAAHHHH!"
+    },
+    {
+      "self_id": "MS19F_X45_A3_0010_F_FRE_0025",
+      "speaker_code": "FRE",
+      "bank": "MS19F_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 12,
+      "english_text": "...!"
+    },
+    {
+      "self_id": "MS19F_X45_C0_0010_F_FRE_0100",
+      "speaker_code": "FRE",
+      "bank": "MS19F_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 269,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19R_X44_B0_0030_M_SEL_0070",
+      "speaker_code": "SEL",
+      "bank": "MS19R_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 111,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19R_X44_BATTLE_01_AFTER_M_RLN_0030",
+      "speaker_code": "RLN",
+      "bank": "MS19R_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 132,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19R_X44_BATTLE_01_BEFORE_M_SEL_0010",
+      "speaker_code": "SEL",
+      "bank": "MS19R_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 166,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS19R_X44_BATTLE_02_BEFORE_M_SVR_0010",
+      "speaker_code": "SVR",
+      "bank": "MS19R_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 243,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "POP / Hierophant is always kept as original game audio and never included in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter19_voice_mapping\\chapter19_omnivoice_studio.csv",
+  "sha256": "2e5124cf6c5d0477a3b6d6356627b26ba0e65d9af60c91b37b1eef0236d199e4"
+}

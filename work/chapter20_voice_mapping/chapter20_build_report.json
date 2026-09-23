@@ -1,0 +1,73 @@
+{
+  "chapter": 20,
+  "banks": {
+    "MS20S_EN": 131
+  },
+  "bank_audio_cues": 131,
+  "tts_rows": 130,
+  "keep_original_rows": 1,
+  "coverage_equation": "130 TTS + 1 original = 131/131",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 130
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [],
+  "generic_assignments": [
+    {
+      "code": "M402",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 2
+    },
+    {
+      "code": "M403",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_YOUNG_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M404",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "M408",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "MS20X47B01M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_B",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS20X47B01M02",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_C",
+      "spoken_lines": 1
+    }
+  ],
+  "keep_original_detail": [
+    {
+      "self_id": "MS20S_X47_C0_3010_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS20S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 80,
+      "english_text": "......"
+    }
+  ],
+  "hierophant_policy": "POP / Hierophant is always kept as original game audio and never included in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter20_voice_mapping\\chapter20_omnivoice_studio.csv",
+  "sha256": "3179c904fd0ad429b03715f0086f0713df53237b900aeac608f024c256a06f07"
+}

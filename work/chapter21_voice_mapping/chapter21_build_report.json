@@ -1,0 +1,115 @@
+{
+  "chapter": 21,
+  "banks": {
+    "MS21S_EN": 406
+  },
+  "bank_audio_cues": 406,
+  "tts_rows": 398,
+  "keep_original_rows": 8,
+  "coverage_equation": "398 TTS + 8 original = 406/406",
+  "status_counts": {
+    "PENDING_MANUAL_GENERATION": 398
+  },
+  "pending_reference_characters": [],
+  "needs_voice_target_characters": [],
+  "generic_assignments": [
+    {
+      "code": "M367",
+      "gender": "male",
+      "age": "child",
+      "voice_target": "MALE_CHILD_A",
+      "spoken_lines": 3
+    },
+    {
+      "code": "M368",
+      "gender": "male",
+      "age": "child",
+      "voice_target": "MALE_CHILD_A",
+      "spoken_lines": 1
+    },
+    {
+      "code": "MS21X48B02M01",
+      "gender": "male",
+      "age": "adult",
+      "voice_target": "MALE_ADULT_A",
+      "spoken_lines": 1
+    }
+  ],
+  "keep_original_detail": [
+    {
+      "self_id": "MS21S_X48_A0_1010_M_RLN_0190",
+      "speaker_code": "RLN",
+      "bank": "MS21S_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 51,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_A1_0010_M_BND_0080",
+      "speaker_code": "BND",
+      "bank": "MS21S_EN",
+      "classification": "NONVERBAL_PUNCTUATION_ONLY",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 101,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_BATTLE_02_DRAMA_F_POP_0010",
+      "speaker_code": "POP",
+      "bank": "MS21S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 304,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_BATTLE_02_DRAMA_F_POP_0020",
+      "speaker_code": "POP",
+      "bank": "MS21S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 305,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_BATTLE_02_DRAMA_F_POP_0030",
+      "speaker_code": "POP",
+      "bank": "MS21S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 306,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_BATTLE_02_DRAMA_F_POP_0040",
+      "speaker_code": "POP",
+      "bank": "MS21S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 307,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_BATTLE_02_DRAMA_F_POP_0050",
+      "speaker_code": "POP",
+      "bank": "MS21S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 308,
+      "english_text": "......"
+    },
+    {
+      "self_id": "MS21S_X48_BATTLE_02_DRAMA_F_POP_0060",
+      "speaker_code": "POP",
+      "bank": "MS21S_EN",
+      "classification": "HIEROPHANT_KEEP_ORIGINAL",
+      "action": "KEEP_ORIGINAL_GAME_AUDIO",
+      "awb_stream": 309,
+      "english_text": "......!"
+    }
+  ],
+  "hierophant_policy": "POP / Hierophant is always kept as original game audio and never included in Thai TTS CSV.",
+  "canonical_csv": "C:\\Users\\Pat\\Workshop\\triangle-strategy-thai-voice\\work\\chapter21_voice_mapping\\chapter21_omnivoice_studio.csv",
+  "sha256": "d5e7b6a7a0dad9148032e6b0acc4dab50f82503bfb525bf73496129f0bb75827"
+}
