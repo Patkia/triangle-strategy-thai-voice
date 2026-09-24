@@ -35,6 +35,11 @@
 
 # Track only canonical chapter files
 !/work/chapter*_voice_mapping/chapter*_omnivoice_studio.csv
+
+# Track canonical battle voice transcript / generation inventory
+!/work/battle_voice_mapping/
+/work/battle_voice_mapping/*
+!/work/battle_voice_mapping/battle_voice_cues_with_text.csv
 !/work/chapter*_voice_mapping/build_chapter*_omnivoice_csv.py
 !/work/chapter*_voice_mapping/chapter*_build_report.json
 
