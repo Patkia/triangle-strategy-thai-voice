@@ -54,6 +54,48 @@ TRIANGLE STRATEGY และ game assets เป็นทรัพย์สิน�
   - ผู้จัดทำไม่พบโพสต์แจกต้นฉบับในปัจจุบัน จึงไม่ claim provenance เกินหลักฐานนี้
 - Translation/localization reference: [เม่นแปลเกม (Hedgy Translator)](https://www.facebook.com/HedgyTranslator/) ใช้เป็นแหล่งอ้างอิงสำนวนและภาษาไทยใหม่เท่านั้น ไม่ได้ claim ownership ของคำแปล
 
+## อัดเสียงพากย์เอง (Manual Voice Recorder)
+
+Repository มีเครื่องมือ `manual_voice.cmd` สำหรับอัดเสียงพากย์เองจาก CSV ของแต่ละ Chapter โดยไม่ทับไฟล์ TTS เดิม เสียงที่อัดจะถูกบันทึกเป็น WAV 48 kHz / mono / PCM16 ใต้โฟลเดอร์ `manual_input_wav` ของ Chapter นั้น
+
+ติดตั้ง dependency ครั้งแรก:
+
+```bat
+python -m pip install numpy sounddevice
+```
+
+ใช้งานตามเลข Chapter ได้โดยตรง:
+
+```bat
+manual_voice.cmd 0
+manual_voice.cmd 1
+manual_voice.cmd 2
+```
+
+ตรวจ CSV/dependency โดยไม่เปิดไมค์หรืออัดเสียง:
+
+```bat
+manual_voice.cmd 1 --check
+```
+
+ยังรองรับการส่ง path CSV โดยตรง:
+
+```bat
+manual_voice.cmd "work\chapter1_voice_mapping\chapter1_omnivoice_studio.csv"
+manual_voice.cmd "work\chapter1_voice_mapping\chapter1_omnivoice_studio.csv" --check
+```
+
+ถ้าไม่ส่ง argument เลย `manual_voice.cmd` จะใช้ Chapter 0 เป็นค่าเริ่มต้น
+
+ภายในหน้าต่าง recorder:
+
+- `Space` เริ่ม/หยุดอัด
+- `P` ฟังเสียงที่เพิ่งอัด
+- `Enter` ยืนยันเซฟและไปบรรทัดถัดไป
+- `← / →` ย้อนกลับ/ไปต่อ
+- `Esc` ปิดโปรแกรม
+- เมื่อเปิดใหม่ ระบบจะตรวจไฟล์ที่อัดไว้แล้วใน `manual_input_wav` เพื่อ resume ต่อได้
+
 ## เอกสารสำหรับผู้พัฒนา
 
 - [GitHub readiness audit](docs/github-readiness-audit.md)
